@@ -27,7 +27,21 @@
 
 
 
+// function add(a,s,d){
+// return `mening ismim ${a}. yoshim${s}. men ${d} ishlayman!`
+// }
+// console.log(add("ulug'bek",34,"OKMK"))
 
 
+
+
+   function add(name,age,job){
+   data={
+   name:"ulug",
+   age:22,
+   job:ogmk
+}}
+ console.log(add("mwening ismim" + .this.name))
+    
 
 
